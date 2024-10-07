@@ -33,6 +33,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	text-align:center;
 }
 ol, ul {
 	list-style: none;
@@ -51,7 +52,10 @@ table {
 }
 
 
+
+
 img{
-	100%;
+width:100%;
+	max-width:630px;
 }
 
